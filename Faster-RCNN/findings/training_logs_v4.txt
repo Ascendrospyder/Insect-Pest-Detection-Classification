@@ -1,0 +1,61 @@
+Using device: cuda
+Epoch: 1, Training Loss: 0.2844443136483431, Time: 10.44mins
+Saving best model with a training loss of 0.28444
+Epoch: 2, Training Loss: 0.23607095339149237, Time: 10.07mins
+Saving best model with a training loss of 0.23607
+Epoch: 3, Training Loss: 0.210170399838686, Time: 10.07mins
+Saving best model with a training loss of 0.21017
+Epoch: 4, Training Loss: 0.200197293625772, Time: 10.11mins
+Saving best model with a training loss of 0.20020
+Epoch: 5, Training Loss: 0.16227348909527065, Time: 10.07mins
+Saving best model with a training loss of 0.16227
+Epoch: 6, Training Loss: 0.1540407877713442, Time: 10.21mins
+Saving best model with a training loss of 0.15404
+Epoch: 7, Training Loss: 0.14780119854584337, Time: 10.05mins
+Saving best model with a training loss of 0.14780
+Epoch: 8, Training Loss: 0.14329860297590494, Time: 10.03mins
+Saving best model with a training loss of 0.14330
+Epoch: 9, Training Loss: 0.13389064861312508, Time: 10.10mins
+Saving best model with a training loss of 0.13389
+Epoch: 10, Training Loss: 0.13271056495681405, Time: 9.99mins
+Saving best model with a training loss of 0.13271
+Epoch: 11, Training Loss: 0.13071718912273644, Time: 10.00mins
+Saving best model with a training loss of 0.13072
+Epoch: 12, Training Loss: 0.13009335523098708, Time: 10.02mins
+Saving best model with a training loss of 0.13009
+Epoch: 13, Training Loss: 0.1259697954453528, Time: 9.98mins
+Saving best model with a training loss of 0.12597
+Epoch: 14, Training Loss: 0.126741738384217, Time: 10.01mins
+Increasing count to $1
+Epoch: 15, Training Loss: 0.12636985923722385, Time: 9.92mins
+Increasing count to $2
+Epoch: 16, Training Loss: 0.12693687123283745, Time: 9.87mins
+Increasing count to $3
+Epoch: 17, Training Loss: 0.1261277312017977, Time: 9.87mins
+Increasing count to $4
+Epoch: 18, Training Loss: 0.1259625898592174, Time: 9.88mins
+Saving best model with a training loss of 0.12596
+Epoch: 19, Training Loss: 0.1257592265099287, Time: 9.87mins
+Saving best model with a training loss of 0.12576
+Epoch: 20, Training Loss: 0.12516992119699716, Time: 9.87mins
+Saving best model with a training loss of 0.12517
+Epoch: 21, Training Loss: 0.12546431861817836, Time: 9.88mins
+Increasing count to $1
+Epoch: 22, Training Loss: 0.12581741961613296, Time: 9.85mins
+Increasing count to $2
+Epoch: 23, Training Loss: 0.12574935192912817, Time: 9.86mins
+Increasing count to $3
+Epoch: 24, Training Loss: 0.12437946790531278, Time: 10.04mins
+Saving best model with a training loss of 0.12438
+Epoch: 25, Training Loss: 0.12444557603895665, Time: 9.99mins
+Increasing count to $1
+Epoch: 26, Training Loss: 0.12572868797257541, Time: 9.98mins
+Increasing count to $2
+Epoch: 27, Training Loss: 0.1257447003029287, Time: 9.99mins
+Increasing count to $3
+Epoch: 28, Training Loss: 0.12530333443135022, Time: 9.98mins
+Increasing count to $4
+Epoch: 29, Training Loss: 0.12520380521416663, Time: 10.07mins
+Increasing count to $5
+Stopping training at 29 epoches since model wasn't improving.
+Finished running model! It took 290.08 minutes to run 29 epochs.

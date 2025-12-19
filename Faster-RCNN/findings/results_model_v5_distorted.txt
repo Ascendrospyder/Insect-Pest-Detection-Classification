@@ -1,0 +1,40 @@
+With Gausian Noise and +-50% Brightness Distortion
+Evaluation took 28.41 seconds
+mAP@0.5: 0.6312
+mAP@[0.5:0.95]: 0.3436
+Num ground truths = 689
+Total True Positives: 452
+Total False Positives: 268
+Total False Negatives: 167
+Overall Accuracy: 0.50958
+Overall Precision: 0.62778
+Overall Recall: 0.73021
+Overall F1 Score: 0.67513
+
+Classification Metrics based on each class:
+Ants: Precision=0.7308	Recall=0.7037	F1=0.7170
+Bees: Precision=0.7838	Recall=0.8056	F1=0.7945
+Beetles: Precision=0.3611	Recall=0.6842	F1=0.4727
+Caterpillars: Precision=0.4625	Recall=0.4302	F1=0.4458
+Earthworms: Precision=0.3607	Recall=0.6471	F1=0.4632
+Earwigs: Precision=0.6377	Recall=0.6984	F1=0.6667
+Grasshoppers: Precision=0.7105	Recall=0.5625	F1=0.6279
+Moths: Precision=0.8542	Recall=1.0000	F1=0.9213
+Slugs: Precision=0.4625	Recall=0.7400	F1=0.5692
+Snails: Precision=0.7843	Recall=0.8511	F1=0.8163
+Wasps: Precision=0.8000	Recall=0.9302	F1=0.8602
+Weevils: Precision=0.9286	Recall=1.0000	F1=0.9630
+
+AUC based on each class:
+Class Ants (1) with AUC: 0.8218
+Class Bees (2) with AUC: 0.8272
+Class Beetles (3) with AUC: 0.7804
+Class Caterpillars (4) with AUC: 0.6782
+Class Earthworms (5) with AUC: 0.7621
+Class Earwigs (6) with AUC: 0.7921
+Class Grasshoppers (7) with AUC: 0.7415
+Class Moths (8) with AUC: 0.9353
+Class Slugs (9) with AUC: 0.8490
+Class Snails (10) with AUC: 0.8968
+Class Wasps (11) with AUC: 0.9243
+Class Weevils (12) with AUC: 0.9471

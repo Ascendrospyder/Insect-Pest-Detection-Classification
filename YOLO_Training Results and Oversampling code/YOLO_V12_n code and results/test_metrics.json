@@ -1,0 +1,131 @@
+{
+    "global_metrics": {
+        "precision_mean": 0.8241973636885733,
+        "recall_mean": 0.7562300166869766,
+        "mAP50_mean": 0.7948290955989799,
+        "mAP50-95_mean": 0.48149176020161505,
+        "fitness": 0.48149176020161505
+    },
+    "per_class_metrics": [
+        {
+            "Class": "Ants",
+            "Images": 54.0,
+            "Instances": 87.0,
+            "Box-P": 0.86016,
+            "Box-R": 0.77775,
+            "Box-F1": 0.81688,
+            "mAP50": 0.7916,
+            "mAP50-95": 0.33248
+        },
+        {
+            "Class": "Bees",
+            "Images": 40.0,
+            "Instances": 44.0,
+            "Box-P": 0.8341,
+            "Box-R": 0.90909,
+            "Box-F1": 0.86998,
+            "mAP50": 0.87713,
+            "mAP50-95": 0.47626
+        },
+        {
+            "Class": "Beetles",
+            "Images": 41.0,
+            "Instances": 44.0,
+            "Box-P": 0.68853,
+            "Box-R": 0.72727,
+            "Box-F1": 0.70737,
+            "mAP50": 0.73399,
+            "mAP50-95": 0.39136
+        },
+        {
+            "Class": "Caterpillars",
+            "Images": 46.0,
+            "Instances": 93.0,
+            "Box-P": 0.72232,
+            "Box-R": 0.50349,
+            "Box-F1": 0.59337,
+            "mAP50": 0.67096,
+            "mAP50-95": 0.36484
+        },
+        {
+            "Class": "Earthworms",
+            "Images": 27.0,
+            "Instances": 40.0,
+            "Box-P": 0.7096,
+            "Box-R": 0.575,
+            "Box-F1": 0.63525,
+            "mAP50": 0.57515,
+            "mAP50-95": 0.27624
+        },
+        {
+            "Class": "Earwigs",
+            "Images": 59.0,
+            "Instances": 73.0,
+            "Box-P": 0.76893,
+            "Box-R": 0.64384,
+            "Box-F1": 0.70084,
+            "mAP50": 0.72247,
+            "mAP50-95": 0.40619
+        },
+        {
+            "Class": "Grasshoppers",
+            "Images": 38.0,
+            "Instances": 55.0,
+            "Box-P": 0.86027,
+            "Box-R": 0.55976,
+            "Box-F1": 0.67822,
+            "mAP50": 0.63871,
+            "mAP50-95": 0.33074
+        },
+        {
+            "Class": "Moths",
+            "Images": 47.0,
+            "Instances": 47.0,
+            "Box-P": 0.93242,
+            "Box-R": 0.95745,
+            "Box-F1": 0.94477,
+            "mAP50": 0.97909,
+            "mAP50-95": 0.79274
+        },
+        {
+            "Class": "Slugs",
+            "Images": 46.0,
+            "Instances": 51.0,
+            "Box-P": 0.74719,
+            "Box-R": 0.57963,
+            "Box-F1": 0.65283,
+            "mAP50": 0.67518,
+            "mAP50-95": 0.391
+        },
+        {
+            "Class": "Snails",
+            "Images": 44.0,
+            "Instances": 50.0,
+            "Box-P": 0.84527,
+            "Box-R": 0.88,
+            "Box-F1": 0.86229,
+            "mAP50": 0.90823,
+            "mAP50-95": 0.66791
+        },
+        {
+            "Class": "Wasps",
+            "Images": 46.0,
+            "Instances": 47.0,
+            "Box-P": 0.96558,
+            "Box-R": 0.97872,
+            "Box-F1": 0.97211,
+            "mAP50": 0.97582,
+            "mAP50-95": 0.64915
+        },
+        {
+            "Class": "Weevils",
+            "Images": 58.0,
+            "Instances": 58.0,
+            "Box-P": 0.95602,
+            "Box-R": 0.98276,
+            "Box-F1": 0.9692,
+            "mAP50": 0.98963,
+            "mAP50-95": 0.699
+        }
+    ]
+}
